@@ -1,0 +1,13 @@
+{
+    "extends": "airbnb",
+    "env": {
+        "browser": true,
+        "jasmine": true
+    },
+    "rules": {
+        "react/jsx-filename-extension": [1, {"extensions": [".js"]}],
+        "react/jsx-indent": ["error", 4],
+        "indent": ["error", 4],
+        "linebreak-style": 0
+    }
+}
