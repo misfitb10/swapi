@@ -1,1 +1,4 @@
 src/registerServiceWorker.js
+build
+public
+node_modules
